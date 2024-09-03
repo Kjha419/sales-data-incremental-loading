@@ -6,10 +6,10 @@
  
 **Features:**
 
-* Incremental Loading: Efficiently loads only new or updated data.
+* Incremental Loading:  Efficiently loads only new or updated data.
 
--Window Functions: Ranks stores based on daily sales.
+* Window Functions: Ranks stores based on daily sales.
 
--Data Cleaning and Transformation: Ensures data quality and consistency.
+* Data Cleaning and Transformation: Ensures data quality and consistency.
 
--Scalable Pipeline: Designed to handle large datasets.
+* Scalable Pipeline: Designed to handle large datasets.
