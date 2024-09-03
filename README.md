@@ -6,7 +6,7 @@
  
 **Features:**
 
-*Incremental Loading: Efficiently loads only new or updated data.
+* Incremental Loading: Efficiently loads only new or updated data.
 
 -Window Functions: Ranks stores based on daily sales.
 
